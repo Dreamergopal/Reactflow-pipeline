@@ -86,7 +86,7 @@ This is the backend API for the Reactflow Pipeline project. It handles processin
 2. **Install dependencies**
 
   npm install
-  # or
+  or
   yarn install
 
 3. **Start development server**
