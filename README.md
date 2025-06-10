@@ -4,6 +4,14 @@ A flow-chart-based data pipeline builder built with React and React Flow. It all
 
 ---
 
+## 📸 Screenshot
+
+Here's what the pipeline builder looks like:
+
+![Pipeline Screenshot](frontend/public/screenshot.png)
+
+---
+
 
 🧠 Note
 Make sure the backend is running before using the frontend.
