@@ -84,6 +84,7 @@ This is the backend API for the Reactflow Pipeline project. It handles processin
    cd Reactflow-pipeline
 
 2. **Install dependencies**
+
   npm install
   # or
   yarn install
@@ -92,6 +93,7 @@ This is the backend API for the Reactflow Pipeline project. It handles processin
   Open http://localhost:3000 in your browser.
 
 
+---
 
 🎯 Usage
 Add nodes: Use the node panel or drag from sidebar to canvas.
@@ -107,6 +109,7 @@ Auto-layout: Rearrange nodes using layout algorithms.
 Export/Import: Save pipelines to JSON and load them later.
 
 
+---
 
 🧩 Customization
 Node Types: Define custom node styles/components using nodeTypes.
@@ -117,7 +120,7 @@ Layout Engine: Integrate Dagre or Elk to auto-arrange nodes.
 
 State Logic: Use Zustand, Redux or Context API as needed.
 
-
+---
 
 🧪 Demo & Examples
 Sample flow: Input → Transform → Output
@@ -126,7 +129,7 @@ Each node can include custom config, logic, or data
 
 Easily extendable to add validation, live preview, etc.
 
-
+---
 
 🎯 Use Cases
 Data pipeline editors (ETL, CI/CD)
@@ -137,7 +140,7 @@ Workflow designers for apps like ML, automation, BPMN
 
 Educational tools for explaining logical flow/algorithms
 
-
+---
 
 👥 Contributing
 Contributions are welcome!
@@ -148,7 +151,7 @@ Open a pull request with a clear description
 
 Report bugs or request features in Issues
 
-
+---
 
 ✉️ Contact
 Maintained by Gopal Kumar Burman
